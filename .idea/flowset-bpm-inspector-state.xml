@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="bpmstudio-bpm-inspector-state">
+    <option name="statesByFile">
+      <map>
+        <entry key="$PROJECT_DIR$/src/main/java/CadastroPetView.form">
+          <value>
+            <FileInspectorState>
+              <option name="statesByElementId">
+                <map>
+                  <entry key="Field_1ttmbqs">
+                    <value>
+                      <ExpandedItems />
+                    </value>
+                  </entry>
+                  <entry key="Form_0jz0l9d">
+                    <value>
+                      <ExpandedItems />
+                    </value>
+                  </entry>
+                  <entry key="Form_0mzt19n">
+                    <value>
+                      <ExpandedItems />
+                    </value>
+                  </entry>
+                </map>
+              </option>
+            </FileInspectorState>
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/ConsultaPetView.form">
+          <value>
+            <FileInspectorState>
+              <option name="statesByElementId">
+                <map>
+                  <entry key="Field_0k7ye5x">
+                    <value>
+                      <ExpandedItems>
+                        <option name="items">
+                          <option value="Static options" />
+                          <option value="Static options|Value" />
+                        </option>
+                      </ExpandedItems>
+                    </value>
+                  </entry>
+                  <entry key="Form_0mzt19n">
+                    <value>
+                      <ExpandedItems />
+                    </value>
+                  </entry>
+                </map>
+              </option>
+            </FileInspectorState>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
