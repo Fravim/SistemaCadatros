@@ -29,4 +29,4 @@ public class SessionManager {
     public static boolean isLogado() {
         return usuarioLogado != null;
     }
-}
+} 
